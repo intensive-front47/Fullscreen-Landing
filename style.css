@@ -57,8 +57,6 @@ a:hover {
 }
 
 .section-2 {
-    background-color: white;
-    color: #926239;
     text-align: center;
     padding: 20px;
 }
@@ -76,9 +74,4 @@ footer {
 .sides {
     background-color: #926239;
     color: white;
-}
-
-.midlle {
-    background-color: white;
-    color: #926239;
 }
