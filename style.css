@@ -49,20 +49,15 @@ a:hover {
     color: white;
 }
 
-.section-1 {
+.up {
     background-color: #926239;
     color: white;
-    text-align: center;
-    padding: 20px;
 }
 
-.section-2 {
+.section {
+   
     text-align: center;
     padding: 20px;
-}
-
-footer {
-    width: 100%;
 }
 
 .box {
